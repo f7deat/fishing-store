@@ -18,7 +18,7 @@ const Footer: React.FC = () => {
                             <li>Email: defzone.net@gmail.com</li>
                         </ul>
                         <div className="flex space-x-4 text-2xl">
-                            <a href="#">
+                            <a href="https://www.facebook.com/docauphocang/" target="_blank" rel="noopener noreferrer">
                                 <FacebookFilled />
                             </a>
                             <a href="#">
